@@ -2,4 +2,4 @@
 
 This is chapter 2 (Two!)
 
-![Screen](./assets/3.jpg)
+[![Screen](../assets/2.jpg)](../assets/2.jpg)
