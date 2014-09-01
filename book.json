@@ -8,6 +8,7 @@
     // Caution: it overrides the value from the command line
     // It's not advised this option in the book.json
     "generator": "FicShelf",
+    "author": "FicShelf Auth", 
 
     // Book title and description (defaults are extracted from the README)
     //"title": null,
