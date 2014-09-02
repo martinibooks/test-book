@@ -1,6 +1,6 @@
 # The Revolution
 
-## Use your time wisely. Write.
+*Use your time wisely. __Write.__*
 
 FicShelf is disrupting the traditional publishing industry that is in terminal decline and leading the revolution for all those who love literature.
 
