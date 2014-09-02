@@ -3,7 +3,7 @@ FicShelf
 
 This ebook has been created on the [FicShelf](http://beta.ficshelf.com) platform.
 
-## Ficshelf is the social e-commerce platform taking power from publishers and giving it to writers, editors and readers.
+*Ficshelf is the social e-commerce platform taking power from publishers and giving it to writers, editors and readers.*
 
 [![Screen](./assets/founders.jpg)](./assets/founders.jpg)
 
