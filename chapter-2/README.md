@@ -1,5 +1,3 @@
-# Chapter 2
+# Chapter 3: The Market
 
-This is chapter 2 (Two!)
-
-[![Screen](../assets/2.jpg)](../assets/2.jpg)
+[![Screen](../assets/minicard_front.jpg)](../assets/minicard_front.jpg)
