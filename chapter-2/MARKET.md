@@ -1,8 +1,8 @@
 # The Market: Numbers & Facts 
 
-* The global publishing market is expected to reach a worth of more than $252 billion in 2014, according to [MarketLine](http://www.reportlinker.com/p0185031-summary/Publishing-Global-Industry-Guide.html).
+* The global publishing market is expected to reach a worth of more than $252 billion in 2014, according to MarketLine.
 
-* Books comprise almost 42% of the overall global publishing market, according to [MarketLine](http://www.reportlinker.com/p0157575-summary/Books-Global-Industry-Guide.html). The book market is expected to reach a value of almost $108 billion in 2014, representing a near 9.5% yearly increase in the five-year periodending 2014.
+* Books comprise almost 42% of the overall global publishing market, according to MarketLine. The book market is expected to reach a value of almost $108 billion in 2014, representing a near 9.5% yearly increase in the five-year periodending 2014.
 
 * Ebook revenues for US publishers doubled to more than $2bn in 2011. (BookStats)
 
@@ -30,9 +30,11 @@ In 2011, of the $14 billion trade publishing industry, roughly $100 million of i
 
 In 2013, the numbers should look quite different.
 
-In the first four months of the year, we've had [four weeks where a self-published ti](http://www.digitalbookworld.com/2013/ebook-publisher-power-rankings-hachette-no-1-in-2013/)tle [was a No. 1](http://www.digitalbookworld.com/2013/ebook-publisher-power-rankings-hachette-no-1-in-2013/)ebook best-seller. Last week, both the [Nos. 1 and 2 spots were self](http://www.digitalbookworld.com/2013/self-published-ebooks-are-nos-1-and-2-best-sellers-average-price-drops-to-all-time-low/)- [published ebooks](http://www.digitalbookworld.com/2013/self-published-ebooks-are-nos-1-and-2-best-sellers-average-price-drops-to-all-time-low/). [This week's best-seller list](http://www.digitalbookworld.com/2013/self-published-titles-dominate-top-of-ebook-best-sellers-list/)brings fresh challenges to the dominance of traditional publishers.
- ![](data:image/*;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAABCAYAAAD5PA/NAAAAFElEQVR42mNITU3NT0tLuw/CIDYAPScHX7OF/0kAAAAASUVORK5CYII=)
+In the first four months of the year, we've had [four weeks where a self-published title was a No. 1 ebook best-seller](http://www.digitalbookworld.com/2013/ebook-publisher-power-rankings-hachette-no-1-in-2013/). 
 
-[http://www.forbes.com/sites/jeremygreenfield/2013/04/30/when-the-self](http://www.forbes.com/sites/jeremygreenfield/2013/04/30/when-the-self-published-authors-take-over-what-will-publishers-do/)- [published-authors-take-over-what-will-publishers-d](http://www.forbes.com/sites/jeremygreenfield/2013/04/30/when-the-self-published-authors-take-over-what-will-publishers-do/)
+Last week, both the [Nos. 1 and 2 spots were self published ebooks](http://www.digitalbookworld.com/2013/self-published-ebooks-are-nos-1-and-2-best-sellers-average-price-drops-to-all-time-low/). 
+
+[This week's best-seller list](http://www.digitalbookworld.com/2013/self-published-titles-dominate-top-of-ebook-best-sellers-list/) brings fresh  [challenges to the dominance of traditional publishers](http://www.forbes.com/sites/jeremygreenfield/2013/04/30/when-the-self-published-authors-take-over-what-will-publishers-do/).
+
 
 
