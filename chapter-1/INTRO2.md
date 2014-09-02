@@ -6,8 +6,8 @@ We start by creating a Market Place so independent professionals such as writers
 ### Social Publishing
 The second aspect of the solution is a creative platform where writers can develop their ideas into books and engage readers in the creative process, subsequently gathering a following. This is a well known phenomenon called [Social Publishing](http://blog.ficshelf.com/3704798).
 
-### Distribution Channel
-Finally, FicShelf will also provide a distribution channel for eBooks but most importantly, we are innovating the way ebooks are being sold to readers. Readers are going to buy the books directly from their favourite authors' social networking profiles. We will make eBook sales more intimate and ethical. Readers will be aware that their writers are getting the best deal in the market.
+### Social Commerce
+Finally, FicShelf will also provide a distribution channel for eBooks but most importantly, we are **innovating the way ebooks are being sold to readers**. Readers are going to buy the books directly from their favourite authors' social networking profiles. We will make eBook sales more intimate and ethical. Readers will be aware that their writers are getting the best deal in the market. People care how their money is bein spent. It is called **ethical buying**.
 
 We are bringing together all the different aspects of online publishing.
 
