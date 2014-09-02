@@ -1,0 +1,12 @@
+#!/bin/sh
+echo "must run as sudo"
+gitbook epub ./test-book
+rm -r ./tmp-book
+mkdir ./tmp-book
+mv ./test-book/book.epub ./tmp-book
+cd ./tmp-book
+unzip book.epub
+rm book.epub
+sed -i 's/Unknown/FicShelf/g' content.opf
+zip -r b.epub . 
+cp b.epub /usr/share/nginx/html/book.epub
