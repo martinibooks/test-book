@@ -5,8 +5,8 @@
     * [Meet The Founders](chapter-1/Founders.md)
 
 * [Chapter 2: The Market](chapter-2/README.md)
-    * [The Market: Numbers & Facts](chapter-1/Market.md)
-    * [What Writers Say](chapter-1/WritersSay.md)
+    * [The Market: Numbers & Facts](chapter-2/Market.md)
+    * [What Writers Say](chapter-2/WritersSay.md)
 
  * [Curious?](chapter-3/README.md)
      
