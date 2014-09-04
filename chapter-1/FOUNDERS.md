@@ -1,6 +1,8 @@
 # The Founders
 [![Screen](../assets/founders.jpg)](../assets/founders.jpg)
 
+Monique and Martin have been a team for 10 years. Together they have been using their brains and technology to solve people's problems.
+
 *Monique Duarte, CEO*
 7 years  experience as Co-founder and Head of Design at a London-based Digital Agency  (Morango).
 Product Development & UX Expert.

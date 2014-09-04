@@ -1,27 +1,22 @@
 # The Backers
 
-*Chris Webster*
-
+**Chris Webster**
 Royal Academy of Arts Graduate, Musician, Book-lover.
 
 
-*James Lewis*
-
+**James Lewis**
 Lawyer, Asset Manager, Seed Investor.
 
 
-*Svetlana Novikova*
-
+**Svetlana Novikova**
 Finance, Asset Manager, Investment Banker. 
 
 
-*Bloodstone Consulting Ltd*
+**Bloodstone Consulting Ltd**
+Financial advisory firm.
 
-Financial advisory firm 
 
-
-*Luiz George Ramsey Barreiros* 
-
+**George Ramsey**
 Software Engineer @ Red Hat
 
 
