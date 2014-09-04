@@ -1,4 +1,4 @@
-# Meet The Backers
+# The Backers
 
 *Chris Webster*
 Royal Academy of Arts Graduate, Musician, Book-lover.

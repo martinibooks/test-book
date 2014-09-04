@@ -1,4 +1,4 @@
-# Meet The Founders
+# The Founders
 [![Screen](../assets/founders.jpg)](../assets/founders.jpg)
 
 *Monique Duarte, CEO*
