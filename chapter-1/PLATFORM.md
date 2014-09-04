@@ -25,9 +25,7 @@ The selection of different payment options appeals to writers and service provid
 
 ## Social Publishing
 
-FicShelf will be gradually adding functionality to the platform. 
-
-Ficshelf tools will allow writers to develop their ideas into books and gather a following. The creative platform will offer: 
+The second aspect of the solution is a **creative platform** where writers can develop their ideas into books and engage readers in the creative process, subsequently gathering a following:
 
 
 * **Writing Tool** - Helps writers to develop a story outline through a questionnaire that is fully customisable. 
@@ -43,31 +41,26 @@ Ficshelf tools will allow writers to develop their ideas into books and gather a
 * **Distribution Tool** - Lets writers convert their manuscripts into an eBook and send them to different online eBook retailers with one click. A special dashboard helps manage the process.
 
 #### Revenue generation:
-* Additional features will increase subscription rates and user retention.
+* The Creative Platform will increase subscription rates and user retention.
 
-* Once fully developed, a pro version with charged subscription will be created. 
+* Once tools are fully developed, a pro version with charged subscription will be created. 
 
-* Periodical sales tool will increase revenue generation. 
+* At the heart of Social Publishing are periodocals. We will books as Periodicals. Dickens' style. 
 
-* Distribution tool will have a separate revenue flow – share of commission on eBook sales through other online shops.
-
-* Development timeline: gradual implementation by the end of 2014        
+* Distribution tool will have a separate revenue flow – share of commission on eBook sales through other online shops.      
 
 
 
-## Sociale-Commerce Platform
+## Social eCommerce Platform
 
-* Authors are spending more and more time on marketing through social media. FicShelf is offering a convenient way to reach readers, create a following and sell books through one web page. 
+The most important aspect of our solution is the the Fichelf Social eCommerce Platform.
 
-* FicShelf will create an innovative distribution channel for eBooks that will combine social networking with ecommerce. 
+We provide a distribution channel for eBooks but most importantly, we are **innovating the way ebooks are being sold to readers**. 
 
-* FicShelf will encourage people to join the platform by creating an ecosystem focused on the book universe.
+Readers are going to buy books directly from their favourite authors' social networking profiles. We will make eBook sales more intimate and ethical. Readers will be aware that their writers are getting the best deal in the market. People care how their money is being spent. It is called **ethical buying**.
 
-* Readers will buy books directly from their favourite writers’ social networking profiles.
 
-* Ficshelf will charge 10% from every sale. For comparison, Amazon is charging at least 30%. 
-
-* FicShelf will offer flexible solutions to authors, such as publishing books chapter by chapter. Periodical publication allows authors to profit from their books while they are being written. 
+* Ficshelf will charge 10% from every sale. Why? Because we want to be competitive and grow in such a way that independent writers and publishing houses won't be able to afford to ignore Fichelf eCommerce PLatform.
 
 FicShelf will also develop several apps:
 
