@@ -1,8 +1,10 @@
 # FicShelf - The Platform 
 
-## Marketplace
+The platform has 3 components:
 
-A Marketplace where independent professionals of the publishing eco-system (writers, designers, editors, proof-readers etc.) can collaborate and make money.
+## The Marketplace
+
+We have created a Marketplace where independent professionals of the publishing eco-system (writers, designers, editors, proof-readers etc.) can collaborate and make money.
 
 **The way it works:** 
 
@@ -26,7 +28,7 @@ FicShelf does not take commission on funds raised, but all funds must be spent t
 
 **Revenue Sharing:** as an alternative to fixed-fee payments, we also allow customised revenue share as a payment option.
 
-## Social Publishing
+## The Social Publishing Platform
 
 The second aspect of the solution is a **creative platform** where writers can develop their ideas into books and engage readers in the creative process, subsequently gathering a following:
 
@@ -54,7 +56,7 @@ The second aspect of the solution is a **creative platform** where writers can d
 
 
 
-## Social eCommerce Platform
+## The Social eCommerce Platform
 
 The most important aspect of our solution is the Fichelf Social eCommerce Platform.
 
