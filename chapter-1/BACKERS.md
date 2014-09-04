@@ -22,7 +22,7 @@
 
 **George Ramsey**
 
-Software Engineer @ Red Hat
+>Software Engineer @ Red Hat
 
 
 
