@@ -2,7 +2,7 @@
 
 ## Marketplace
 
-A Marketplace where independent professionals of the publishing eco-system (writers, designers, editors, proof-readers etc.) can collaborate and profit.
+A Marketplace where independent professionals of the publishing eco-system (writers, designers, editors, proof-readers etc.) can collaborate and make money.
 
 **The way it works:** 
 
