@@ -6,6 +6,6 @@
 
 __We are the Etsy to Ebay, the AirBnB to hotels, the Uber to the Black Cab.__
 
-[![Chris Webster](../assets/chris.jpg)](https://www.youtube.com/watch?v=isJzdtgrKl8)
+[![Chris Webster](../assets/chris.jpg)](https://www.youtube.com/watch?v=Mc3928f8d98)
 
 Watch investor #1, Chris Webster, explaining what FicShelf is all about.

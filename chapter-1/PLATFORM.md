@@ -58,13 +58,13 @@ The second aspect of the solution is a **creative platform** where writers can d
 
 ### The Social eCommerce Platform
 
-The most important aspect of our solution is the Fichelf Social eCommerce Platform.
+The most important aspect of our solution is the FicShelf Social eCommerce Platform.
 
 We provide a distribution channel for eBooks but most importantly, we are **innovating the way ebooks are being sold to readers**. 
 
 Readers are going to **buy books directly from their favourite authors' social networking profiles**. We will make **eBook sales more intimate and ethical**. Readers will be aware that their writers are getting the best deal in the market. People care how their money is being spent. It is called **ethical buying**.
 
 
-* Ficshelf will charge 10% from every sale. Why? Because we want to be competitive and grow in such a way that independent writers and publishing houses won't be able to afford to ignore Fichelf eCommerce Platform.
+* Ficshelf will charge 10% of every sale. Why? Because we want to be competitive and grow in such a way that independent writers and publishing houses won't be able to afford to ignore FicShelf eCommerce Platform.
 
 
