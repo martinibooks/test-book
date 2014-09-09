@@ -1,4 +1,4 @@
-# The Platform in lines of code
+# The Platform in Lines of Code
 
 As of August 2014:
 
